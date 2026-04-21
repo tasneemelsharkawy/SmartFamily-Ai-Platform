@@ -3,7 +3,39 @@
 ---
 
 ## 📌 Project Overview
-SmartFamily AI Platform is an integrated digital solution designed to support families from the pregnancy stage until early childhood (ages 4–5). The platform combines maternal health monitoring, early childhood education, psychological support, and artificial intelligence to detect potential behavioral or emotional issues at an early stage. It addresses the lack of a comprehensive, Arabic-focused family support application by providing healthcare guidance, parenting resources, child education, and safety tools in one unified system. The project will be presented as a web and mobile application with interactive dashboards and AI-powered insights.
+SmartFamily AI Platform is a digital healthcare and family support system designed for mothers and children.
+
+The platform provides:
+
+- Pregnancy monitoring
+- Doctor booking
+- Medication reminders
+- Child vaccination tracking
+- Parenting support
+- AI-powered health assistance
+- Emotional and behavioral early detection
+
+Available as Web and Mobile Application.
+---
+
+## Main Features
+
+- Doctor Appointment Booking
+- Video Consultation
+- Child Growth Tracker
+- AI Chatbot
+- Nutrition Guidance
+- Reports Upload
+- Smart Dashboard
+
+---
+
+## Technologies
+
+- Frontend: React / Next.js
+- Backend: Node.js / Express.js
+- Database: MongoDB
+- Mobile: React Native
 ---
 
 ## 👥 Team Members
@@ -18,46 +50,17 @@ SmartFamily AI Platform is an integrated digital solution designed to support fa
 ---
 
 ## 🎯 Project Objectives
-- Provide reliable pregnancy tracking and healthcare guidance for mothers  
-- Support parents with educational and psychological parenting resources  
-- Offer safe, interactive learning experiences for young children  
-- Use AI to detect early signs of psychological or developmental issues  
+
+- Provide reliable healthcare support for mothers during pregnancy and after childbirth  
+- Enable easy doctor booking and secure communication with healthcare providers  
+- Help mothers manage medications, nutrition plans, and appointments  
+- Track child vaccinations, growth, and healthcare records  
+- Use AI to provide smart assistance, reminders, and health guidance  
+- Deliver a smooth experience across web and mobile platforms  
+
 ---
 
 ## 📦 Project Scope
-- Pregnancy tracking and doctor booking system  
-- Educational and protective content for children aged 4–5  
-- AI-powered daily journal and early detection system  
-- Parent dashboard with insights and guidance  
-- Support tools for special needs and early intervention  
 
-> **Final Deliverable:**  
-A functional MVP of the SmartFamily AI Platform, including pregnancy tracking, child learning modules, parent dashboard, and AI-based early detection alerts.
----
-
-## 📅 Project Plan (5 Weeks)
-
-### Week 1 — Planning & Requirements
-- Define system requirements and target users  
-- Design UI/UX wireframes  
-- Set up project architecture  
-
-### Week 2 — Core Features Development
-- Implement authentication system  
-- Develop pregnancy tracking module  
-- Create basic child learning activities  
-
-### Week 3 — Parent & Journal Systems
-- Build daily child journal system  
-- Develop parent dashboard  
-- Implement doctor booking feature  
-
-### Week 4 — AI Integration
-- Integrate AI for emotion and behavior analysis  
-- Implement early detection logic  
-- Add notification and alert system  
-
-### Week 5 — Testing & Final Delivery
-- Test system functionality  
-- Fix bugs and improve UI/UX  
-- Prepare final presentation and documentation  
+- Doctor booking and telemedicine consultation system  
+- Prepare presentation and documentation  ntation
